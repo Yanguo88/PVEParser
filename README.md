@@ -5,4 +5,4 @@ python 3.8.2
 pytorch 1.7.1  
 numpy 1.18.1  
 # 2. Usage
-We incorporate the training and evaluation of PVE in the file PVEparser_demo.py. Just run it.
+We incorporate the training and evaluation of PVE in the file PVEparse_demo.py. Just run it.
