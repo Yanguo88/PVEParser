@@ -1,5 +1,5 @@
 import itertools
-from utils.data_utils.txt_handler import TextHandler
+from utils.txt_handler import TextHandler
 import random
 def synthetize(data):
     # synthetized_data = data
